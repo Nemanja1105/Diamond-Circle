@@ -1,0 +1,13 @@
+Igrac2:
+	Figura 1 (Obicna, ZELENA) - predjeni put (34-4-20-38-40-12-28-46) - stigla do cilja (ne) Vrijeme kretanja:00:14
+	Figura 2 (Obicna, ZELENA) - predjeni put (4-10-11-12-16-17-18-19-20-22-23-24-25-26-27-28-30-31-32-33-34-38-39-40-46) - stigla do cilja (da) Vrijeme kretanja:00:52
+	Figura 3 (Obicna, ZELENA) - predjeni put (33-34-4-38-39-40-10-11-12-46-16-17-18-19-20-22-23-26-27-28-30-31) - stigla do cilja (ne) Vrijeme kretanja:00:34
+	Figura 4 (Obicna, ZELENA) - predjeni put (34-4-20-38-22-40-12-28-46-30) - stigla do cilja (ne) Vrijeme kretanja:00:11
+
+Igrac1:
+	Figura 5 (Lebdeca, ZUTA) - predjeni put (4-10-11-12-16-17-18-19-20-22-23-24-25-26-27-28-30-31-32-33-34-38-39-40-46) - stigla do cilja (da) Vrijeme kretanja:00:42
+	Figura 6 (Obicna, ZUTA) - predjeni put (4-10-11-12-16-17-18-19-20-22-23-24-25-26-27-28-30-31-32-33-34-38-39-40-46) - stigla do cilja (da) Vrijeme kretanja:00:58
+	Figura 7 (Lebdeca, ZUTA) - predjeni put (4-10-11-12-16-17-18-19-20-22-23-24-25-26-27-28-30-31-32-33-34-38-39-40-46) - stigla do cilja (da) Vrijeme kretanja:00:32
+	Figura 8 (Obicna, ZUTA) - predjeni put (4-10-11-12-16-17-18-19-20-22-23-24-25-26-27-28-30-31-32-33-34-38-39-40-46) - stigla do cilja (da) Vrijeme kretanja:00:27
+
+Ukupno vrijeme trajanja igre:02:53
