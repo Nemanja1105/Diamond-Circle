@@ -1,7 +1,8 @@
 # Diamond-Circle
 This is a game implementation of "DiamondCircle" played on a matrix with a minimum dimension of 7x7 and a maximum of 10x10. The game can be played by a minimum of 2 players and a maximum of 4 players. The dimensions of the matrix and the number of players can be set before the start of the application.
 
-Game Rules
+__Game Rules__
+
 Each player has a unique name and four figures of the same color. There are three types of figures: regular, floating, and super-fast. Each figure can be red, green, blue, or yellow. Regular and floating figures move over a specified number of squares, while the super-fast figure moves twice as many squares. Regular and super-fast figures can fall into a hole, while floating figures remain above the hole. At the beginning of the game, each player is given four randomly selected figures of the same color.
 
 In addition to the figures used by the players, there is also a "ghost" figure - it starts moving when the first player does and moves along the path "in the background," placing bonus squares - diamonds - on the path. A random number of diamonds are placed between 2 and the dimension of the matrix at random positions every 5 seconds until the end of the game. When a figure encounters a diamond, it "picks it up," and for the rest of the game, the number of squares it moves is increased by the number of diamonds it has picked up.
